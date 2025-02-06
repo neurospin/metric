@@ -4,8 +4,8 @@
 
 # Important links
 
-- repository URL: https://github.com/neurospin/gaia
-- site URL: https://neurospin.github.io/gaia
+- repository URL: https://github.com/neurospin/metric
+- site URL: https://neurospin.github.io/metric
 
 # How to contribute
 
