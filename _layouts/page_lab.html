@@ -4,11 +4,11 @@
     html5up.net | @ajlkn
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-{% assign lab = "gaia" %}
+{% assign lab = "metric" %}
 {% assign teams_sorted = site.labs | where: "cat", lab | where: "subcat", "team" | sort: "title"  %}
 {% assign cells_sorted = site.labs | where: "cat", lab | where: "subcat", "cell" | sort: "title"  %}
 {% assign research_sorted = site.research | sort: 'added' | reverse  %}
-{% assign collaborators_sorted = (site.collaborators | sort: 'subcat' %}
+{% assign collaborators_sorted = site.collaborators | sort: 'subcat' %}
 
 <html>
 
@@ -56,7 +56,7 @@
                             You will need a JavaScript-enabled browser to see the email addresses.
                         </p>
                         </noscript>
-                        <div class="posts">
+                        <div class="posts2">
                         {% for team in teams_sorted %}
                           <article>
                             <!-- {% if team.site %}
@@ -84,44 +84,6 @@
                         </div>
                     </section>
 
-
-                    <!-- Cells -->
-                    <section id="cells">
-                        <header class="major">
-                          <h2>Platforms</h2>
-                        </header>
-                        <noscript>
-                        <p> Please note that email addresses on this site are protected to avoid abuse by spammers.
-                            You will need a JavaScript-enabled browser to see the email addresses.
-                        </p>
-                        </noscript>
-                        <div class="posts">
-                        {% for cell in cells_sorted %}
-                          <article>
-                           <!-- {% if cell.site %}
-                                <a href="{{cell.site}}" class="image"><img src="{{site.url}}{{site.baseurl}}/images/labs/{{cell.icon}}" alt="" /></a>
-                            {% else %}
-                                <a href="{{site.url}}{{site.baseurl}}{{cell.url}}" class="image"><img src="{{site.url}}{{site.baseurl}}/images/labs/{{cell.icon}}" alt="" /></a>
-                            {% endif %} -->
-                            <h3>{{ cell.title }}: {{cell.headline}}</h3>
-                            <p>
-                                <b>Leader: </b>
-                                <script>mail2("{{cell.leader | replace: " ", "." | downcase}}",
-                                              "cea", 3, "", "{{cell.leader}}")</script>
-                            </p>
-
-                            <p>{{ cell.teasing }}</p>
-                            <ul class="actions">
-                                {% if cell.site %}
-                                    <li><a href="{{cell.site}}" target="_blank" class="button medium">More</a></li>
-                                {% else %}
-                                    <li><a href="{{site.url}}{{site.baseurl}}{{cell.url}}" class="button medium">More</a></li>
-                                {% endif %}
-                            </ul>
-                          </article>
-                        {% endfor %}
-                        </div>
-                    </section>
                 </section>
 
                 <!-- Gallery -->

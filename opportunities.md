@@ -6,7 +6,7 @@ expiration: 100
 ---
 
 <!-- Section -->
-For a spontaneous application do not hesitate to <a href="mailto:{{site.email}}">contact us.</a>
+Don’t hesitate to <a href="mailto:{{site.email}}">reach us</a> for internship, PhD and post-doc opportunities.
 
 {% assign today = site.time | date: '%s' %}
 {% assign jobs_sorted = site.opportunities | sort: 'date' | reverse %}

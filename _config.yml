@@ -1,16 +1,16 @@
 
 # Site settings
-title: GAIA
-subtitle: Brain Imaging and Data Science Lab
-baseurl: #gaia
-url: # https://baobablab.github.io/
+title: METRIC
+subtitle:
+baseurl:
+url:
 
 # Legal
 director: Jean-François Mangin
-webmaster: Edouard Duchesnay
+webmaster: Nicolas Boulant
 
 # Contacts
-email: edouard.duchesnay@cea.fr
+email: nicolas.boulant@cea.fr
 author:
 street_address:
 city:
