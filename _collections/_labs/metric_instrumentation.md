@@ -1,6 +1,6 @@
 ---
 layout: page_team
-title: MRI INSTRUMENTATION
+title: INSTRUMENTATION
 cat: metric
 subcat: team
 headline:
