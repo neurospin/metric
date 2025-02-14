@@ -5,7 +5,7 @@
 # Important links
 
 - repository URL: https://github.com/neurospin/metric
-- site URL: https://neurospin.github.io/metric
+- site URL: https://metric.neurospin.fr
 
 # How to contribute
 
