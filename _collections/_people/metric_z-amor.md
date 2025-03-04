@@ -1,7 +1,7 @@
 ---
 layout:
 name: Zaineb Amor
-desc: PhD 2023
+desc: PhD 2024
 position: alumni
 cat: metric
 subcat: 
