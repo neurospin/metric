@@ -1,6 +1,6 @@
 ---
 layout:
-name: François-Paul Gapais
+name: Paul-François Gapais
 desc: (2024-)
 position: postdoc
 cat: metric
