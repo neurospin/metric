@@ -40,6 +40,7 @@ Lowen, D., Pracht, E. D., Gras, V., Massire, A., Mauconduit, F., Stoecker, T., &
 Monreal-Madrigal, Alejandro, Kurban, Deniz, Huber, Laurentius, Ivanov, Dimo, Boulant, Nicolas, & Poser, Benedikt. (2024). Combining the benefits of 3D acquisitions and spiral readouts for VASO fMRI at UHF. Imaging Neuroscience, 2, 1–14. https://doi.org/https://doi.org/10.1162/imag_a_00308
 
 Haiwei, C, Lei, G, Feiyang, L, Yang, G, Zhiyan, Q, Boulant, N, Liu, F, & Zhang, X. (2024). Asymmetrical Planar Folded Dipole Antennas for Human Body MRI at 7 T. IEEE Transactions on Antennas and Propagation. https://doi.org/https://doi.org/10.1109/tap.2024.3513639
+
 Pinho, L, Richard, H, Ponse, AF, Eickenberg, M. Amadon,A et al. Individual Brain Charting dataset extension, third release for movie watching and retinotopy data, Sci Data 11, 590 (2024). https://doi.org/10.1038/s41597-024-03390-1.
 
 <b>2023</b>
@@ -53,6 +54,7 @@ Boulant, N., Quettier, L., Aubert, G., Amadon, A., Belorgey, J., Berriaud, C., B
 Chu, S., Gras, V., Mauconduit, F., Massire, A., Boulant, N., & Gunamony, S. (2023). Electromagnetic and RF pulse design simulation based optimization of an eight-channel loop array for 11.7T brain imaging. Magnetic Resonance in Medicine, 90(2), 770–783. https://doi.org/10.1002/mrm.29654
 
 Daval-Frérot, G., Massire, A., Mailhé, B., Nadar, M., Bapst, B., Luciani, A., Vignaud, A., & Ciuciu, P. (2023). Deep learning-assisted model-based off-resonance correction for non-Cartesian SWI. Magnetic Resonance in Medicine, 90(4), 1431–1445. https://doi.org/10.1002/mrm.29738
+
 Delabarre, T., Gras, V., Mauconduit, F., Vignaud, Boulant, N., & Ciobanu, L. (2023). Efficient optimization of CEST MRI at 7T using Universal Pulses and Virtual Observation Points. Magn Reson Med.
 
 Destruel, A., Mauconduit, F., Massire, A., Abdeddaim, R., Guye, M., Gras, V., & Callot, V. (2023). Optimized interferometric encoding of presaturated TurboFLASH B1 mapping for parallel transmission MRI at 7 T: Preliminary application for quantitative T1 mapping in the spinal cord. Magnetic Resonance in Medicine, 90(4), 1328–1344. https://doi.org/10.1002/mrm.29708
@@ -68,6 +70,7 @@ Amor, Z., Le Ster, C., Gr, C., Daval-Frérot, G., Boulant, N., Mauconduit, F., T
 Le Ster, C., Selingue, E., Poirier, R., Edeline, J.-M., Mériaux, S., & Boulant, N. (2023). Behavioral and functional assessment of mice inner ear after chronic exposure to an ultrahigh B0 field of 11.7 T or 17.2 T. Magnetic Resonance in Medicine, 90(2), 699–707. https://doi.org/10.1002/mrm.29659
 
 Mazancieux, A., Mauconduit, F., Amadon, A., Willem de Gee, J., Donner, T. H., & Meyniel, F. (2023). Brainstem fMRI signaling of surprise across different types of deviant stimuli. Cell Reports, 42(11), 113405. https://doi.org/10.1016/j.celrep.2023.113405
+
 Porciuncula Baptista, R., Naudin, M., Chaithya, G. R., Daval-Frerot, G., Mauconduit, F., Haeger, A., Romanzetti, S., Lapert, M., Ciuciu, P., Rabrait-Lerman, C., Guillevin, R., Vignaud, A., & Boumezbeur, F. (2023). Irm cerebrale du sodium rapide avec sparkling 3d sous-echantillonnee à 7 tesla. Journal of Neuroradiology, 50, 192–193.
 
 Quettier, L., Aubert, G., Amadon, A., Belorgey, J., Berriaud, C., Bonnelye, C., Boulant, N., Bredy, Ph., Dilasser, G., Dubois, O., Gilgrass, G., Gras, V., Guihard, Q., Jannot, V., Juster, F. P., Lannou, H., Lepretre, F., Lerman, C., Le Ster, C., … Vignaux, A. (2023). Progress Toward Medical Use of the Iseult Whole Body 11.7 T MRI: First Images. IEEE Transactions on Applied Superconductivity, 33(5), 1–7. https://doi.org/10.1109/TASC.2023.3244117
