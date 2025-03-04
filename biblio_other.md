@@ -35,7 +35,7 @@ Gapais, P.-F., Luong, M., Nizery, F., Maitre, G., Giacomini, E., Guillot, J., Vi
 
 Gapais, P-F, Luong, M, Amadon, A. Revisiting the Impact of Inter-Channel Coupling and Thermal Noise Correlation on MRI Receive-Array Performance: A Simulation Study, IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology. 2024. doi: 10.1109/JERM.2024.3509589.
 
-Lowen, D., Pracht, E. D., Gras, V., Massire, A., Mauconduit, F., Stoecker, T., & Boulant, N. (2024). Design of calibration‐free RF pulses for T 2$$ {}_2 $$‐weighted single‐slab 3D turbo‐spin‐echo sequences at 7T utilizing parallel transmission. Magnetic Resonance in Medicine, 92(5), 2037–2050. https://doi.org/10.1002/mrm.30212
+Lowen, D., Pracht, E. D., Gras, V., Massire, A., Mauconduit, F., Stoecker, T., & Boulant, N. (2024). Design of calibration‐free RF pulses for T2‐weighted single‐slab 3D turbo‐spin‐echo sequences at 7T utilizing parallel transmission. Magnetic Resonance in Medicine, 92(5), 2037–2050. https://doi.org/10.1002/mrm.30212
 
 Monreal-Madrigal, Alejandro, Kurban, Deniz, Huber, Laurentius, Ivanov, Dimo, Boulant, Nicolas, & Poser, Benedikt. (2024). Combining the benefits of 3D acquisitions and spiral readouts for VASO fMRI at UHF. Imaging Neuroscience, 2, 1–14. https://doi.org/https://doi.org/10.1162/imag_a_00308
 
