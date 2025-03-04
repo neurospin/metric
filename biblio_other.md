@@ -16,6 +16,7 @@ Dudysheva, N, Luong, M, Amadon, A, Morel, L, Le Touz, N, Vignaud, A, Boulant, N,
 <b>2024</b>
 
 Aghaeifar, A., Bosch, D., Heule, R., Williams, S., Ehses, P., Mauconduit, F., & Scheffler, K. (2024). Intra‐scan RF power amplifier drift correction. Magnetic Resonance in Medicine, mrm.30078. https://doi.org/10.1002/mrm.30078
+
 Amor, Z., Ciuciu, P., G. R., C., Daval-Frérot, G., Mauconduit, F., Thirion, B., & Vignaud, A. (2024). Non-Cartesian 3D-SPARKLING vs Cartesian 3D-EPI encoding schemes for functional Magnetic Resonance Imaging at 7 Tesla. PLOS ONE, 19(5), e0299925. https://doi.org/10.1371/journal.pone.0299925
 
 Boulant, N., Mauconduit, F., Gras, V., Amadon, A., Le Ster, C., Luong, M., Massire, A., Pallier, C., Sabatier, L., Bottlaender, M., Vignaud, A., & Le Bihan, D. (2024). In vivo imaging of the human brain with the Iseult 11.7-T MRI scanner. Nature Methods, 21(11), 2013–2016. https://doi.org/10.1038/s41592-024-02472-7
