@@ -6,5 +6,5 @@ position: pi
 cat: metric
 subcat: acquisition
 avatar:
-joined: 
+joined:
 ---

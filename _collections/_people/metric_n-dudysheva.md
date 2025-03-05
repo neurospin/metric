@@ -1,7 +1,7 @@
 ---
 layout:
 name: Natalia Dudysheva
-desc: (2022-) 
+desc: (2022-)
 position: gradstudent
 cat: metric
 subcat: acquisition
