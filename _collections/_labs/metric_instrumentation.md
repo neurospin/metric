@@ -6,7 +6,7 @@ subcat: team
 headline:
 teasing: Our team conducts hardware developments for MRI instrumentation at Ultra-High-Field (UHF). Primarily we design and build RF head coils suited for NeuroSpin needs, mainly for humans but also for animals for fMRI studies. We put a strong emphasis on parallel transmit coils and receive arrays for our clinical 7T and 11.7T scanners. We also develop original multi-coil arrays dedicated to human and NHP brain shimming.
 leader: Alexis Amadon
-icon: noimage.png
+icon: photo_groupe_instrumentation.jpg
 added: 2025
 permalink: teams/metric-instrumentation.html
 ---
