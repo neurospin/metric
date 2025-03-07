@@ -6,7 +6,7 @@ subcat: team
 headline:
 teasing: The acquisition team works on MR methodology aimed at leveraging the potential of Ultra-High Field MR scanners. This includes many challenges such as parallel transmission, sequence programming (fMRI, anatomical, quality control), non-cartesian acquisitions, field monitoring, SAR/temperature control and motion correction. Since the birth of NeuroSpin, many of these problems have been explored at 7T to prepare for the investigations at the unprecedented field strength of 11.7T, where emphasis is now put. The acquisition team works together with the instrumentation team to make the Iseult 11.7T project a success by providing the tools needed to extract unique data on the functions and anatomy of the pathological and healthy human brain.
 leader: Nicolas Boulant
-icon: noimage.png
+icon: EquipeAcquisition.jpg
 added: 2025
 permalink: teams/metric-acquisition.html
 ---
