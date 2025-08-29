@@ -11,7 +11,15 @@ permalink: bibliography.html
 
 Voelzke, Y, Akbey, S, Lowen, D, Stirnberg, R, Pracht, ED, Gras, V, Boulant, N, Zaiss, M, & Stoecker, T. (2025). Calibration-free whole-brain ultra-high field CEST imaging using universal parallel transmission. Magnetic Resonance in Medicine, 630–642. https://doi.org/https://doi.org/10.1002/mrm.30305
 
-Dudysheva, N, Luong, M, Amadon, A, Morel, L, Le Touz, N, Vignaud, A, Boulant, N, Gras, V. Proposal for local SAR safety margin in pediatric neuro-imaging using 7 T MRI and parallel transmission, Physics in Medicine and Biology 2025. Doi: 10.1088/1361-6560/ada683
+Dudysheva, N, Luong, M, Amadon, A, Morel, L, Le Touz, N, Vignaud, A, Boulant, N, Gras, V. Proposal for local SAR safety margin in pediatric neuro-imaging using 7 T MRI and parallel transmission, Physics in Medicine and Biology 70 035007 2025. Doi: 10.1088/1361-6560/ada683
+
+Huber, L., Stirnberg, R., Morgan, AT., Feinberg, DA., Ehses, P., Knudsen, L., Faruk Gulban, O.,  Gephart, I., Swegle, S., Wardle, SG., Persichetti, AS, Beckett, AJS, Stöcker, T., Boulant, N., Poser, BA., Bandettini, PA. Short-term gradient imperfections in high-resolution EPI lead to Fuzzy Ripple artifacts. Magnetic Resonance in Medicine 94, 571-587 (2025) https://doi.org/10.1002/mrm.30489
+
+Roos, THM, Versteeg, E., Gosselink, M., Hoogduin, H., Min Nam, K., Boulant, N., Gras, V., Mauconduit, F., Klomp, DWJ., Siero, JCW., Wijnen, JP. pTx-Pulseq in hybrid sequences: Accessible and advanced hybrid open-source MRI sequences on Philips scanners. Magnetic Resonance in Medicine 94, 1946-1962 (2025) https://doi.org/10.1002/mrm.30601
+
+Murphy-Boesch, J., de Zwart, JA., Van Gelderen, P., Dodd, SJ., Mauconduit, F., Vignaud, A.,  Boulant, N., Koretsky, AP, Duyn, JH, Gudino N. 500 MHz Inductive Birdcage RF Coil for Brain MRI: Design, Implementation and Validation. IEEE Transactions on Biomedical Engineering vol. 72, no. 6, pp. 1983-1992, June 2025  doi:  10.1109/TBME.2025.3529725.
+
+Feinberg, DA., Ma, S., Walker, E., Beckett, AJS., Rattenbacher, D., Rummert, E., Dietz, P., Davids, M., Boulant, N. Reassessment of peripheral nerve stimulation thresholds for the impulse model-optimized asymmetric head gradient coil. Magnetic Resonance in Medicine 94, 1326-1338 (2025).
 
 <b>2024</b>
 
