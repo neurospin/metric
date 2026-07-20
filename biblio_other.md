@@ -49,7 +49,7 @@ Boulant, N., Mauconduit, F., Gras, V., Amadon, A., Le Ster, C., Luong, M., Massi
 
 Boulant, N., Le Ster, C., Amadon, A., Aubert, G., Beckett, A., Belorgey, J., Bonnelye, C., Bosch, D., Brunner, D. O., Dilasser, G., Dubois, O., Ehses, P., Feinberg, D., Feizollah, S., Gras, V., Gross, S., Guihard, Q., Lannou, H., Le Bihan, D., … Wu, X. (2024). The possible influence of third-order shim coils on gradient–magnet interactions: an inter-field and inter-site study. Magnetic Resonance Materials in Physics, Biology and Medicine. https://doi.org/10.1007/s10334-023-01138-3
 
-Boulant, Nicolas, Ma, Samantha, Walker, Erica, Beckett, Alexander, Vu, An, Gunamony, Shajan, & Feinberg, David. (2024). Acoustic noise reduction in the NexGen 7T scanner. Magnetic Resonance in Medicine, 92, 2261–2270.
+Boulant, N., Ma, S., Walker, E., Beckett, A., Vu, A., Gunamony, S., Feinberg, D.. (2024). Acoustic noise reduction in the NexGen 7T scanner. Magnetic Resonance in Medicine, 92, 2261–2270.
 
 Czajko, S., Vignaud, A., & Eger, E. (2024). Human brain representations of internally generated outcomes of approximate calculation revealed by ultra-high-field brain imaging. Nature Communications, 15(1), 572. https://doi.org/10.1038/s41467-024-44810-5
 
@@ -63,7 +63,7 @@ Gapais, P-F, Luong, M, Amadon, A. Revisiting the Impact of Inter-Channel Couplin
 
 Lowen, D., Pracht, E. D., Gras, V., Massire, A., Mauconduit, F., Stoecker, T., & Boulant, N. (2024). Design of calibration‐free RF pulses for T2‐weighted single‐slab 3D turbo‐spin‐echo sequences at 7T utilizing parallel transmission. Magnetic Resonance in Medicine, 92(5), 2037–2050. https://doi.org/10.1002/mrm.30212
 
-Monreal-Madrigal, Alejandro, Kurban, Deniz, Huber, Laurentius, Ivanov, Dimo, Boulant, Nicolas, & Poser, Benedikt. (2024). Combining the benefits of 3D acquisitions and spiral readouts for VASO fMRI at UHF. Imaging Neuroscience, 2, 1–14. https://doi.org/https://doi.org/10.1162/imag_a_00308
+Monreal-Madrigal, A., Kurban, D., Huber, L., Ivanov, D., Boulant, N., Poser, B.. (2024). Combining the benefits of 3D acquisitions and spiral readouts for VASO fMRI at UHF. Imaging Neuroscience, 2, 1–14. https://doi.org/https://doi.org/10.1162/imag_a_00308
 
 Pinho, L, Richard, H, Ponse, AF, Eickenberg, M. Amadon,A et al. Individual Brain Charting dataset extension, third release for movie watching and retinotopy data, Sci Data 11, 590 (2024). https://doi.org/10.1038/s41597-024-03390-1.
 
@@ -111,15 +111,15 @@ Le Ster, C., Grant, A., Van de Moortele, P.-F., Monreal-Madrigal, A., Adriany, G
 
 Le Ster, C., Mauconduit, F., Mirkes, C., Vignaud, A., & Boulant, N. (2022). Measuring radiofrequency field-induced temperature variations in brain MRI exams with motion compensated MR thermometry and field monitoring. Magnetic Resonance in Medicine, 87(3), 1390–1400. https://doi.org/10.1002/mrm.29058
 
-Le Ster, Caroline, Mauconduit, Franck, Massire, Aurélien, Boulant, Nicolas, & Gras, Vincent. (2022). Standardized Universal Pulse: a fast RF calibration approach to improve flip angle accuracy in parallel transmission. Magnetic Resonance in Medicine, 87, 2839–2850. https://doi.org/10.1002/mrm.29180
+Le Ster, C., Mauconduit, F., Massire, A., Boulant, N., Gras, V.. (2022). Standardized Universal Pulse: a fast RF calibration approach to improve flip angle accuracy in parallel transmission. Magnetic Resonance in Medicine, 87, 2839–2850. https://doi.org/10.1002/mrm.29180
 
-Vergara Gomez, T. S., Dubois, M., Rustomij, K., Georget, E., Antonakakis, T., Vignaud, A., Rappachi, S., Girard, O. M., Kober, F., Enoch, S., & Abdeddaim, R. (2022). Hilbert Fractal Inspired Dipoles for passive RF shimming in Ultra-High Field MRI. Photonics and Nanostructures - Fundamentals and Applications, 48, 100988.
+Vergara Gomez, T. S., Dubois, M., Rustomij, K., Georget, E., Antonakakis, T., Vignaud, A., Rappachi, S., Girard, O. M., Kober, F., Enoch, S., Abdeddaim, R. (2022). Hilbert Fractal Inspired Dipoles for passive RF shimming in Ultra-High Field MRI. Photonics and Nanostructures - Fundamentals and Applications, 48, 100988.
 
-Pinho Meneses, B., & Amadon, A. (2022). Physical limits to human brain B0 shimming with spherical harmonics, engineering implications thereof. MAGMA, 10.1007/s10334-022-01025–3(6), 923–941. https://doi.org/10.1007/s10334-022-01025-3
+Pinho Meneses, B., Amadon, A. (2022). Physical limits to human brain B0 shimming with spherical harmonics, engineering implications thereof. MAGMA, 10.1007/s10334-022-01025–3(6), 923–941. https://doi.org/10.1007/s10334-022-01025-3
 
-Pinho Meneses, B., Stockmann, J. P., Arango, N., Gapais, P.-F., Giacomini, E., Mauconduit, F., Gras, V., Boulant, N., Vignaud, A., Luong, M., & Amadon, A. (2022). Shim coils tailored for correcting B0 inhomogeneity in the human brain (SCOTCH): Design methodology and 48-channel prototype assessment in 7-Tesla MRI. NeuroImage, 261, 119498. https://doi.org/10.1016/j.neuroimage.2022.119498
+Pinho Meneses, B., Stockmann, J. P., Arango, N., Gapais, P.-F., Giacomini, E., Mauconduit, F., Gras, V., Boulant, N., Vignaud, A., Luong, M., Amadon, A. (2022). Shim coils tailored for correcting B0 inhomogeneity in the human brain (SCOTCH): Design methodology and 48-channel prototype assessment in 7-Tesla MRI. NeuroImage, 261, 119498. https://doi.org/10.1016/j.neuroimage.2022.119498
 
-Raolison, Z., Dubois, M., Luong, M., Neves, A. L., Mauconduit, F., Enoch, S., Mallejac, N., Sabouroux, P., Boumezbeur, F., Berthault, P., Zubkov, M., Adenot-Egelvin, A.-L., Hertz-Pannier, L., Georget, E., Abdeddaim, R., & Vignaud, A. (2022). Evaluation of new MRI invisible silicon carbide based dielectric pads for 7T MRI. Magn Reson Imaging, 90, 37–43.
+Raolison, Z., Dubois, M., Luong, M., Neves, A. L., Mauconduit, F., Enoch, S., Mallejac, N., Sabouroux, P., Boumezbeur, F., Berthault, P., Zubkov, M., Adenot-Egelvin, A.-L., Hertz-Pannier, L., Georget, E., Abdeddaim, R., Vignaud, A. (2022). Evaluation of new MRI invisible silicon carbide based dielectric pads for 7T MRI. Magn Reson Imaging, 90, 37–43.
 
 <b>2021</b>
 
@@ -131,7 +131,7 @@ Opheim, G., der Kolk, A., Bloch, K. M., Colon, A. J., Davis, K. A., Henry, T. R.
 
 Pinho, L., Amadon, A., Fabre, M., Dohmatob, E., Denghien, I., Torre, J. J., Ginisty, C., Becuwe-Desmidt, S., Roger, S., Laurier, L., Joly-Testault, V., Médiouni-Cloarec, G., Doublé, C., Martins, B., Pinel, P., Eger, E., Varoquaux, G., Pallier, C., Dehaene, S., … Thirion, B. (2021). Subject-specific segregation of functional territories based on deep phenotyping. Human Brain Mapping, 42(4), 841–870. https://doi.org/10.1002/hbm.25189
 
-Jamil, R., Mauconduit, F., Le Ster, C., Ehses, P., Poser, B., Vignaud, A., & Boulant, N. (2021). Temporal SNR optimization through RF coil combination in fMRI: The more, the better? Plos One, PLoS ONE 16(11): e0259592. https://doi.org/10.1371/journal.pone.0259592
+Jamil, R., Mauconduit, F., Le Ster, C., Ehses, P., Poser, B., Vignaud, A., Boulant, N. (2021). Temporal SNR optimization through RF coil combination in fMRI: The more, the better? Plos One, PLoS ONE 16(11): e0259592. https://doi.org/10.1371/journal.pone.0259592
 
 Le Ster, C., Mauconduit, F., Mirkes, C., Bottlaender, M., Boumezbeur, F., Djemai, B., Vignaud, A., & Boulant, N. (2021). RF heating measurement using MR thermometry and field monitoring: methodological considerations and first in vivo results. Magnetic Resonance in Medicine, 85, 1282–1293. https://doi.org/doi.org/10.1002/mrm.28501
 
@@ -147,7 +147,7 @@ Leroi, L., Gras, V., Boulant, N., Ripart, M., Poirion, E., Santin, M. D., Valabr
 
 Lezhennikov, K., Abdeddaim, R., Hurshkainen, A., Vignaud, A., Dubois, M., Jomin, P., Berrahou, D., Raaijmakers, A., Avdievich, N., Mechakova, I., Enoch, S., Belov, P., Simovski, C., & Glybovski, S. (2020). Constructive near-field interference effect in birdcage MRI coil with    artificial magnetic shield. Physical Review Applied.
 
-Van Damme, L., Mauconduit, F., Chambrion, T., Boulant, N., & Gras, V. (2020). Universal nonselective excitation and refocusing pulses with improved robustness to off‐resonance for Magnetic Resonance Imaging at 7 Tesla with parallel transmission. Magnetic Resonance in Medicine, mrm.28441. https://doi.org/10.1002/mrm.28441
+Van Damme, L., Mauconduit, F., Chambrion, T., Boulant, N., Gras, V. (2020). Universal nonselective excitation and refocusing pulses with improved robustness to off‐resonance for Magnetic Resonance Imaging at 7 Tesla with parallel transmission. Magnetic Resonance in Medicine, mrm.28441. https://doi.org/10.1002/mrm.28441
 
 Quettier, L., Aubert, G., Belorgey, J., Berriaud, C., Bredy, P., Dilasser, G., Dubois, O., Gilgrass, G., Guihard, Q., Jannot, V., Juster, F.-P., Lannou, H., Molinie, F., Nunio, F., Roger, A., Schild, T., Scola, L., Sinanna, A., Stepanov, V., & Vedrine, P. (2020). Commissioning Completion of the Iseult Whole Body 11.7 T MRI System. IEEE Transactions on Applied Superconductivity, 30(4), 1–5. https://doi.org/10.1109/TASC.2020.2983702
 
