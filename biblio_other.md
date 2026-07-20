@@ -7,11 +7,29 @@ permalink: bibliography.html
 
 <h2> Publications of the {{site.title}} </h2>
 
+<b>2026</b>
+
+Fullerton NE, Ding B, Williams SN, Allwood-Spiers S, McElhinney P, Baskaran D, Woodward R, Hopkins T, McLennan E, Winata S, Ghosalkar J, Gao H, Keith GA, McEwan E, Boulant N, Donnelly P, Preston L, Macdonald K, McLaughlin IM, Overend R, Porter DA and Gunamony S (2026) Evaluation of an open-face 8-channel transmit 64-channel receive 7T head coil for neuroimaging. Front. Neurosci. 20:1811488. doi: 10.3389/fnins.2026.1811488
+
+Löwen D, Pracht ED, Veldmann M, Gras V, Mauconduit F, Boulant N, Stöcker T. Calibration-free GRAPE pTx pulses for homogeneous spatial-selective excitation at 7T. Magnetic Resonance in Medicine 95:3104-3115 (2026). https://doi.org/10.1002/mrm.70266
+
+Serger M, Stirnberg R, Ehses P, Riedel M, Ulrich T, Le Ster C, Mauconduit F, Gras V, Amadon A, Vignaud A, Chu S, Gunamony S, Zaitsev M, Boulant N, Pruessmann KP, Stöcker T. Motion- and field-robust mesoscopic whole-brain T2∗ -weighted imaging at 7T and 11.7T using servo navigation. Magnetic Resonance in Medicine 95:2658-2670 (2026). https://doi.org/10.1002/mrm.70251
+
+Obriot J, Mauconduit F, Gras V, Giliyar Radhakrishna C, Bertrait M, Ehses P, Stirnberg R, Le Ster C, Boulant N. On the impact of artifacts induced by mismatches between auto calibration signal and accelerated 3D GRE data at 11.7T. Magnetic Resonance in Medicine 95:1440-1447 (2026). https:// 10.1002/mrm.70127
+
+Monreal-Madrigal A, Kurban D, Tse DHY, Ivanov D, Boulant N, Poser BA. BOLD fMRI at 9.4T with 3D stack-of-spirals readouts. Magnetic Resonance Materials in Physics, Biology and Medicine 39:201-215 (2026). https://doi.org/10.1007/s10334-025-01298-4
+
 <b>2025</b>
+
+Faber, J., Paech, D., Pracht, E.,Stirnberg, R., Ehses, P., Völzke, Y.,Löwen, D.,Ferreira, M., Brunheim, S.,Boulant, N., Gras, V., Mauconduit, F., Massire, A., Goa, P.E, Lamalle, L., Rüber, T., Bauer, T., Petzold, G., Nordsiek, J., Schneider, M., Schaub, Klockgether, T., Radbruch, A., Stöcker, T. Ready for Routine - Homogeneous, high-resolution, and multi-contrast whole-brain MRI at 7 Tesla in short scan time with “plug-and-play” pTx sequences. Investigative Radiology, 2025. DOI: 10.1097/RLI.0000000000001252
+
+Klodowski, K., Zhang, M., Jen, J.P, Scoffings, D.J, Morris, R., Lupson, V., Mauconduit, F., Massire, A., Gras, V., Boulant, N., Rodgers, C.T., Cope, T.E. Parallel transmit 7T MRI for adult epilepsy pre-surgical evaluation. Epilepsia 66:2315-2327 (2025) https://doi.org/10.1111/epi.18353
 
 Voelzke, Y, Akbey, S, Lowen, D, Stirnberg, R, Pracht, ED, Gras, V, Boulant, N, Zaiss, M, & Stoecker, T. (2025). Calibration-free whole-brain ultra-high field CEST imaging using universal parallel transmission. Magnetic Resonance in Medicine, 630–642. https://doi.org/https://doi.org/10.1002/mrm.30305
 
 Dudysheva, N, Luong, M, Amadon, A, Morel, L, Le Touz, N, Vignaud, A, Boulant, N, Gras, V. Proposal for local SAR safety margin in pediatric neuro-imaging using 7 T MRI and parallel transmission, Physics in Medicine and Biology 70 035007 2025. Doi: 10.1088/1361-6560/ada683
+
+Chen, H., Guo, L., Lou, F., Gao, Y., Quan, Z., Liu, C., Boulant, N., Liu, F., Zhang, X. Asymmetrical Planar Folded Dipole Antennas for Human Body MRI at 7 T. IEEE Transactions on Antennas and Propagation 73:2766-2779 (2025). https://doi.org/10.1109/tap.2024.3513639.
 
 Huber, L., Stirnberg, R., Morgan, AT., Feinberg, DA., Ehses, P., Knudsen, L., Faruk Gulban, O.,  Gephart, I., Swegle, S., Wardle, SG., Persichetti, AS, Beckett, AJS, Stöcker, T., Boulant, N., Poser, BA., Bandettini, PA. Short-term gradient imperfections in high-resolution EPI lead to Fuzzy Ripple artifacts. Magnetic Resonance in Medicine 94, 571-587 (2025) https://doi.org/10.1002/mrm.30489
 
@@ -46,8 +64,6 @@ Gapais, P-F, Luong, M, Amadon, A. Revisiting the Impact of Inter-Channel Couplin
 Lowen, D., Pracht, E. D., Gras, V., Massire, A., Mauconduit, F., Stoecker, T., & Boulant, N. (2024). Design of calibration‐free RF pulses for T2‐weighted single‐slab 3D turbo‐spin‐echo sequences at 7T utilizing parallel transmission. Magnetic Resonance in Medicine, 92(5), 2037–2050. https://doi.org/10.1002/mrm.30212
 
 Monreal-Madrigal, Alejandro, Kurban, Deniz, Huber, Laurentius, Ivanov, Dimo, Boulant, Nicolas, & Poser, Benedikt. (2024). Combining the benefits of 3D acquisitions and spiral readouts for VASO fMRI at UHF. Imaging Neuroscience, 2, 1–14. https://doi.org/https://doi.org/10.1162/imag_a_00308
-
-Haiwei, C, Lei, G, Feiyang, L, Yang, G, Zhiyan, Q, Boulant, N, Liu, F, & Zhang, X. (2024). Asymmetrical Planar Folded Dipole Antennas for Human Body MRI at 7 T. IEEE Transactions on Antennas and Propagation. https://doi.org/https://doi.org/10.1109/tap.2024.3513639
 
 Pinho, L, Richard, H, Ponse, AF, Eickenberg, M. Amadon,A et al. Individual Brain Charting dataset extension, third release for movie watching and retinotopy data, Sci Data 11, 590 (2024). https://doi.org/10.1038/s41597-024-03390-1.
 
