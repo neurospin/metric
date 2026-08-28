@@ -9,6 +9,8 @@ permalink: bibliography.html
 
 <b>2026</b>
 
+Obriot J, Amor Z, Serger M, Stirnberg R, Ehses P, Riedel M, Stöcker T, Prüssmann KP, Gunamony, Chu S, Amadon A, Vignaud A, Gras V, Meyniel F, Mauconduit F, Le Ster C, Boulant N. Human fMRI at 11.7T: Assessing Feasibility, Stability, and Reliability on the Iseult Scanner. Imaging Neuroscience https://doi.org/10.1162/IMAG.a.1362.
+
 Fullerton NE, Ding B, Williams SN, Allwood-Spiers S, McElhinney P, Baskaran D, Woodward R, Hopkins T, McLennan E, Winata S, Ghosalkar J, Gao H, Keith GA, McEwan E, Boulant N, Donnelly P, Preston L, Macdonald K, McLaughlin IM, Overend R, Porter DA and Gunamony S (2026) Evaluation of an open-face 8-channel transmit 64-channel receive 7T head coil for neuroimaging. Front. Neurosci. 20:1811488. doi: 10.3389/fnins.2026.1811488
 
 Löwen D, Pracht ED, Veldmann M, Gras V, Mauconduit F, Boulant N, Stöcker T. Calibration-free GRAPE pTx pulses for homogeneous spatial-selective excitation at 7T. Magnetic Resonance in Medicine 95:3104-3115 (2026). https://doi.org/10.1002/mrm.70266
