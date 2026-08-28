@@ -9,11 +9,11 @@ permalink: bibliography.html
 
 <b>2026</b>
 
-Obriot J, Amor Z, Serger M, Stirnberg R, Ehses P, Riedel M, Stöcker T, Prüssmann KP, Gunamony, Chu S, Amadon A, Vignaud A, Gras V, Meyniel F, Mauconduit F, Le Ster C, Boulant N. Human fMRI at 11.7T: Assessing Feasibility, Stability, and Reliability on the Iseult Scanner. Imaging Neuroscience https://doi.org/10.1162/IMAG.a.1362.
+Obriot J, Amor Z, Serger M, Stirnberg R, Ehses P, Riedel M, Stöcker T, Prüssmann KP, Gunamony, Chu S, Amadon A, Vignaud A, Gras V, Meyniel F, Mauconduit F, Le Ster C, Boulant N. Human fMRI at 11.7T: Assessing Feasibility, Stability, and Reliability on the Iseult Scanner. Imaging Neuroscience https://doi.org/10.1162/IMAG.a.1362
 
-Chu S, Issac JP, Le Ster C, Amadon A, Gras V, Gapais P-F, Stirnberg R, Boulant N, Gunamony S. Design of an 8-Channel Transmit 32-Channel Receive 11.7T Head Coil and Evaluation of SNR Gains. Magnetic Resonance in Medicine 96:2004-2018 (2026). https://doi.org/10.1002/mrm.70473.
+Chu S, Issac JP, Le Ster C, Amadon A, Gras V, Gapais P-F, Stirnberg R, Boulant N, Gunamony S. Design of an 8-Channel Transmit 32-Channel Receive 11.7T Head Coil and Evaluation of SNR Gains. Magnetic Resonance in Medicine 96:2004-2018 (2026). https://doi.org/10.1002/mrm.70473
 
-Serger M, Riedel M, Stirnberg R, Ulrich T, Boulant N, Pruessmann KP, Stöcker T, Ehses P. Prospective head motion correction in T1- and T2-weighted long echo train sequences using servo navigation. Magnetic Resonance in Medicine 96:1741-1754 (2026). https://doi.org/10.1002/mrm.70479.
+Serger M, Riedel M, Stirnberg R, Ulrich T, Boulant N, Pruessmann KP, Stöcker T, Ehses P. Prospective head motion correction in T1- and T2-weighted long echo train sequences using servo navigation. Magnetic Resonance in Medicine 96:1741-1754 (2026). https://doi.org/10.1002/mrm.70479
 
 Fullerton NE, Ding B, Williams SN, Allwood-Spiers S, McElhinney P, Baskaran D, Woodward R, Hopkins T, McLennan E, Winata S, Ghosalkar J, Gao H, Keith GA, McEwan E, Boulant N, Donnelly P, Preston L, Macdonald K, McLaughlin IM, Overend R, Porter DA and Gunamony S (2026) Evaluation of an open-face 8-channel transmit 64-channel receive 7T head coil for neuroimaging. Front. Neurosci. 20:1811488. doi: 10.3389/fnins.2026.1811488
 
