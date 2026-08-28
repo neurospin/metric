@@ -5,7 +5,7 @@ permalink: bibliography.html
 ---
 
 
-<h2> Publications of the {{site.title}} </h2>
+<h2> Publications of {{site.title}} </h2>
 
 <b>2026</b>
 
