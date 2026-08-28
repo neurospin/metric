@@ -4,7 +4,7 @@ layout: page
 permalink: bibliography/bestof.html
 ---
 
-<h2> Selected publications of the {{site.title}}</h2>
+<h2> Selected publications of {{site.title}}</h2>
 
 Obriot J, Amor Z, Serger M, Stirnberg R, Ehses P, Riedel M, Stöcker T, Prüssmann KP, Gunamony, Chu S, Amadon A, Vignaud A, Gras V, Meyniel F, Mauconduit F, Le Ster C, Boulant N. Human fMRI at 11.7T: Assessing Feasibility, Stability, and Reliability on the Iseult Scanner. Imaging Neuroscience https://doi.org/10.1162/IMAG.a.1362.
 
