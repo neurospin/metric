@@ -8,7 +8,7 @@ permalink: bibliography/bestof.html
 
 Obriot J, Amor Z, Serger M, Stirnberg R, Ehses P, Riedel M, Stöcker T, Prüssmann KP, Gunamony, Chu S, Amadon A, Vignaud A, Gras V, Meyniel F, Mauconduit F, Le Ster C, Boulant N. Human fMRI at 11.7T: Assessing Feasibility, Stability, and Reliability on the Iseult Scanner. Imaging Neuroscience https://doi.org/10.1162/IMAG.a.1362.
 
-Chu S, Issac JP, Le Ster C, Amadon A, Gras V, Gapais P-F, Stirnberg R, Boulant N, Gunamony S. Design of an 8-Channel Transmit 32-Channel Receive 11.7T Head Coil and Evaluation of SNR Gains. Magnetic Resonance in Medicine 96:2004-2018 (2026). https://doi.org/10.1002/mrm.70473.
+Chu S, Issac JP, Le Ster C, Amadon A, Gras V, Gapais P-F, Stirnberg R, Boulant N, Gunamony S. Design of an 8-Channel Transmit 32-Channel Receive 11.7T Head Coil and Evaluation of SNR Gains. Magnetic Resonance in Medicine 96:2004-2018 (2026). https://doi.org/10.1002/mrm.70473
 
 Serger M, Stirnberg R, Ehses P, Riedel M, Ulrich T, Le Ster C, Mauconduit F, Gras V, Amadon A, Vignaud A, Chu S, Gunamony S, Zaitsev M, Boulant N, Pruessmann KP, Stöcker T. Motion- and field-robust mesoscopic whole-brain T2∗ -weighted imaging at 7T and 11.7T using servo navigation. Magnetic Resonance in Medicine 95:2658-2670 (2026). https://doi.org/10.1002/mrm.70251
 
