@@ -9,6 +9,8 @@ permalink: bibliography.html
 
 <b>2026</b>
 
+Amadon A, Gapais P-F., Ferrand G., Gras V., Mauconduit F., Le Ster C., Vignaud A., Boulant N., Luong M. The Iseult Coil, a Hybrid RF Coil for the First Human Brain Images at 11.7 T: Receive Performance Comparison With a Twin Coil at 7 T. NMR in Biomedicine 39, no. 10 (2026): e70390, https://doi.org/10.1002/nbm.70390.
+
 Obriot J, Amor Z, Serger M, Stirnberg R, Ehses P, Riedel M, Stöcker T, Prüssmann KP, Gunamony, Chu S, Amadon A, Vignaud A, Gras V, Meyniel F, Mauconduit F, Le Ster C, Boulant N. Human fMRI at 11.7T: Assessing Feasibility, Stability, and Reliability on the Iseult Scanner. Imaging Neuroscience https://doi.org/10.1162/IMAG.a.1362
 
 Chu S, Issac JP, Le Ster C, Amadon A, Gras V, Gapais P-F, Stirnberg R, Boulant N, Gunamony S. Design of an 8-Channel Transmit 32-Channel Receive 11.7T Head Coil and Evaluation of SNR Gains. Magnetic Resonance in Medicine 96:2004-2018 (2026). https://doi.org/10.1002/mrm.70473
