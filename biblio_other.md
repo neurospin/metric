@@ -9,7 +9,9 @@ permalink: bibliography.html
 
 <b>2026</b>
 
-Blümich B, Boulant N, Garwood M, Parker D, Rogers N, Topgaard D, Ugurbil K. Magnetic Resonance Imaging. Sci. Adv.12,eaeg6766(2026).DOI:10.1126/sciadv.aeg6766.
+Jarraya B, Stirnberg R, Boulant N. Unprecedented In Vivo MRI Resolution of Basal Ganglia At 11.7T. JAMA Neurology 2026. https://doi.org/10.1001/jamaneurol.2026.3264
+
+Blümich B, Boulant N, Garwood M, Parker D, Rogers N, Topgaard D, Ugurbil K. Magnetic Resonance Imaging. Sci. Adv.12,eaeg6766(2026).DOI:10.1126/sciadv.aeg6766
 
 Amadon A, Gapais P-F., Ferrand G., Gras V., Mauconduit F., Le Ster C., Vignaud A., Boulant N., Luong M. The Iseult Coil, a Hybrid RF Coil for the First Human Brain Images at 11.7 T: Receive Performance Comparison With a Twin Coil at 7 T. NMR in Biomedicine 39, no. 10 (2026): e70390, https://doi.org/10.1002/nbm.70390.
 
