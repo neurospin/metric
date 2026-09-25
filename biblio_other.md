@@ -13,7 +13,7 @@ Jarraya B, Stirnberg R, Boulant N. Unprecedented In Vivo MRI Resolution of Basal
 
 Dudysheva N, Mauconduit F, Luong M, Amadon A, Boulant N, and Gras V. High Dynamic Range Turbo-FLASH B1 Mapping for Characterizing Multi-Transmit Multi-Receive RF Arrays, Validated at 7 T and 11.7 T. Magnetic Resonance in Medicine (2026): 1–10, https://doi.org/10.1002/mrm.70569.
 
-Blümich B, Boulant N, Garwood M, Parker D, Rogers N, Topgaard D, Ugurbil K. Magnetic Resonance Imaging. Sci. Adv.12,eaeg6766(2026).DOI:10.1126/sciadv.aeg6766
+Blümich B, Boulant N, Garwood M, Parker D, Rogers N, Topgaard D, Ugurbil K. Magnetic Resonance Imaging. Science Advances 12,eaeg6766(2026).DOI:10.1126/sciadv.aeg6766
 
 Amadon A, Gapais P-F., Ferrand G., Gras V., Mauconduit F., Le Ster C., Vignaud A., Boulant N., Luong M. The Iseult Coil, a Hybrid RF Coil for the First Human Brain Images at 11.7 T: Receive Performance Comparison With a Twin Coil at 7 T. NMR in Biomedicine 39, no. 10 (2026): e70390, https://doi.org/10.1002/nbm.70390.
 
