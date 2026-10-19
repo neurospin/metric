@@ -1,7 +1,7 @@
 ---
 layout:
-name: Juliette Bras (cosupervision with Siemens)
-desc: (2026-)
+name: Juliette Bras 
+desc: (2026-) (co-supervision with Siemens)
 position: gradstudent
 cat: metric
 subcat: acquisition
